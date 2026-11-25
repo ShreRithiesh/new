@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-    int a,b,c;
+    int a,b,d;
     cout<<"enter the values to be added:";
     cin>>a>>b;
-    c=a+b;
-    cout<<"sum:"<<c;
+    d=a+b;
+    cout<<"sum:"<<d;
 }
